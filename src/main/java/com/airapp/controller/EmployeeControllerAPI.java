@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package prt.springbootthymeleafcrudwebapp.controller;
+package com.airapp.controller;
 
 
-import prt.springbootthymeleafcrudwebapp.model.Employee;
+import com.airapp.model.Employee;
 
-import prt.springbootthymeleafcrudwebapp.service.EmployeeService;
+import com.airapp.service.EmployeeService;
 
 
 

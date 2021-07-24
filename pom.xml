@@ -8,11 +8,11 @@
 		<version>2.5.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>prt</groupId>
-	<artifactId>springboot-thymeleaf-crud-web-app</artifactId>
+	<groupId>air</groupId>
+	<artifactId>airapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot-thymeleaf-crud-web-app</name>
-	<description>PRT Tracker Employee Management Solution</description>
+	<name>airapp</name>
+	<description>Air Quality Management System </description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>

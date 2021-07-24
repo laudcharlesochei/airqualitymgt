@@ -1,10 +1,10 @@
-package prt.springbootthymeleafcrudwebapp;
+package com.airapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringbootThymeleafCrudWebAppApplicationTests {
+class airappTests {
 
 	@Test
 	void contextLoads() {

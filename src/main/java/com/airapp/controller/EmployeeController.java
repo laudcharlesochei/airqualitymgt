@@ -1,5 +1,5 @@
 
-package prt.springbootthymeleafcrudwebapp.controller;
+package com.airapp.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
-import prt.springbootthymeleafcrudwebapp.model.Employee;
-import prt.springbootthymeleafcrudwebapp.service.EmployeeService;
+import com.airapp.model.Employee;
+import com.airapp.service.EmployeeService;
 
 
 @Controller

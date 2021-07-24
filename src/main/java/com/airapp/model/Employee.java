@@ -1,5 +1,5 @@
 
-package prt.springbootthymeleafcrudwebapp.model;
+package com.airapp.model;
 import java.io.Serializable;
 import javax.persistence.Column;
 import javax.persistence.Entity;

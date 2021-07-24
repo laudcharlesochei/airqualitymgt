@@ -1,12 +1,12 @@
 
-package prt.springbootthymeleafcrudwebapp.service;
+package com.airapp.service;
 
 import java.util.List;
 import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import prt.springbootthymeleafcrudwebapp.model.Employee;
-import prt.springbootthymeleafcrudwebapp.repository.EmployeeRepository;
+import com.airapp.model.Employee;
+import com.airapp.repository.EmployeeRepository;
 
 @Service
 public class EmployeeServiceImpl implements EmployeeService{

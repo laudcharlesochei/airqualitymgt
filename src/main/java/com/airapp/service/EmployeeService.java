@@ -1,8 +1,8 @@
 
-package prt.springbootthymeleafcrudwebapp.service;
+package com.airapp.service;
 
 import java.util.List;
-import prt.springbootthymeleafcrudwebapp.model.Employee;
+import com.airapp.model.Employee;
 
 public interface EmployeeService {
     List<Employee> getAllEmployees();
